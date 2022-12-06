@@ -35,7 +35,7 @@ Product.init(
       }
   
     // * References the `Category` model's `id`.
-            //foreign key?? association??
+    
 
     }
   },
