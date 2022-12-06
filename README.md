@@ -5,7 +5,7 @@ With the E-Commerce-Back-End, managers of internet retail companies will be able
 
 
 ## Project Preview
-![E-Commerce-Back-End](./02-Challenge/Assets/ecommerce_backend.webm)
+![E-Commerce-Back-End](/02-Challenge/Assets/ecommerce_backend.webm)
 
 ## Technologies Used
 - JavaScript
